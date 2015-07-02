@@ -16,7 +16,7 @@ Source codes or  examples about:
  Data Structure:
                                       
   2.
-  Java: http://docs.oracle.com/javase/8/
+  Java: http://docs.oracle.com/javase/8/                                          
   JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript,  http://www.javascripter.net/                  
   SQL: http://www.mysql.com/, http://nosql-database.org/                                  
   HTML: http://www.w3schools.com/html/, http://htmldog.com/                  

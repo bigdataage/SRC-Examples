@@ -32,7 +32,7 @@ Source codes or  examples about:
   Julia: http://julialang.org/               
                                        
   # 5.                    
-  Go: golang.org, http://golangtc.com/                                             
+  Go: http://golang.org, http://golangtc.com/                                             
   Clojure: http://clojure.org/     
                                                                                      
   

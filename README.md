@@ -12,8 +12,8 @@
  C: http://www.cprogramming.com/                               
  C++: http://www.cplusplus.com/                                
  Linux Shell: http://linuxcommand.org/                     
- Algorithms:         
- Data Structure:
+ Algorithms: http://www.learnalgorithms.in/,  http://www.geeksforgeeks.org/                             
+ Data Structure: http://cslibrary.stanford.edu/,   https://www.topcoder.com/
                                                             
   # 2.                                                               
   Java: http://docs.oracle.com/javase/8/                                          
